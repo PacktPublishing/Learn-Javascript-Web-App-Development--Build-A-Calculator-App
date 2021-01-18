@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/learn-javascript-web-app-development-build-a-calculator-app-video/9781838641429)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Learn-Javascript-Web-App-Development--Build-A-Calculator-App
 Code repository for Learn Javascript Web App Development -Build A Calculator App, Published by Packt
 # Learn-Javascript-Web-App-Development--Build-A-Calculator-App
